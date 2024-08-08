@@ -14,3 +14,5 @@
 ./HashCrack -W $path_wordlist -H $hash -S $salt
 ```
 
+## Wordlist
+- [French Passwords Top 5000](https://raw.githubusercontent.com/tarraschk/richelieu/master/french_passwords_top5000.txt)
